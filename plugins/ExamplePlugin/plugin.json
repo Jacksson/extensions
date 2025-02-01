@@ -4,6 +4,6 @@
     "version": "1.0.0",
     "author": "Jackson Enrique Mosquera Rivas",
     "downloadUrl": "https://raw.githubusercontent.com/Jacksson/extensions/main/plugins/ExamplePlugin/ExamplePlugin.dll",
-    "signatureUrl": "https://raw.githubusercontent.com/Jacksson/extensions/main/plugins/ExamplePlugin/ExamplePlugin.sign",
+    "signatureUrl": "https://raw.githubusercontent.com/Jacksson/extensions/main/plugins/ExamplePlugin/ExamplePlugin.dll.sign",
     "permissions": ["filesystem", "network"]
 }
