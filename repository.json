@@ -1,0 +1,20 @@
+{
+    "plugins": [
+        {
+            "name": "Example Plugin",
+            "description": "Este es un plugin de ejemplo para TakeABreak.",
+            "version": "1.0.0",
+            "author": "TuNombre",
+            "downloadUrl": "https://raw.githubusercontent.com/Jacksson/extensions/main/plugins/ExamplePlugin/ExamplePlugin.dll",
+            "signatureUrl": "https://raw.githubusercontent.com/Jacksson/extensions/main/plugins/ExamplePlugin/ExamplePlugin.sign"
+        },
+        {
+            "name": "Another Plugin",
+            "description": "Otro plugin de prueba.",
+            "version": "1.1.0",
+            "author": "OtroDev",
+            "downloadUrl": "https://raw.githubusercontent.com/Jacksson/extensions/main/plugins/AnotherPlugin/AnotherPlugin.dll",
+            "signatureUrl": "https://raw.githubusercontent.com/Jacksson/extensions/main/plugins/AnotherPlugin/AnotherPlugin.sign"
+        }
+    ]
+}

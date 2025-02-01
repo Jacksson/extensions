@@ -1,0 +1,9 @@
+{
+    "name": "Example Plugin",
+    "description": "Este es un plugin de ejemplo.",
+    "version": "1.0.0",
+    "author": "Jackson Enrique Mosquera Rivas",
+    "downloadUrl": "https://raw.githubusercontent.com/Jacksson/extensions/main/plugins/ExamplePlugin/ExamplePlugin.dll",
+    "signatureUrl": "https://raw.githubusercontent.com/Jacksson/extensions/main/plugins/ExamplePlugin/ExamplePlugin.sign",
+    "permissions": ["filesystem", "network"]
+}
